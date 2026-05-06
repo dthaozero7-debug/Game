@@ -1,0 +1,66 @@
+# Thong So
+
+## ATK
+- Sat thuong cua ben tan cong
+
+## DEF
+- Sat thuong cua ben phong thu
+
+## TiLeChiMang
+- Ti le gay chi mang
+
+## SatThuongChiMang
+- Damage crit = base damage * (1 + satThuongChiMang)
+
+## KhangSkill
+- Giam hieu qua skill nhan vao
+- Toi da 30%
+
+## TangHieuQuaSkill
+- Tang hieu qua skill su dung
+- Toi da 30%
+
+## Speed
+- Quyet dinh thu tu hanh dong
+
+# Combat Flow
+
+1. So speed
+2. Nguoi nhanh dung skill
+3. Neu doi thu chet -> skip damage
+4. Nguoi cham dung skill
+5. Neu doi thu chet -> skip damage
+6. Ap dung he khac che
+7. Roll crit
+8. Exchange damage
+9. Check death
+
+# Damage Logic
+
+- ATK tru DEF
+- DEF tru ATK
+
+# Death Rule
+
+- Neu chi so <= 0 -> chet
+- Neu ca 2 cung chet:
+  - Neu la tuong cuoi:
+    - Ben phong thu thang
+  - Nguoc lai:
+    - Hoa
+
+# He Khac Che
+
+Lua > Dat
+Dat > Nuoc
+Nuoc > Lua
+
+Gio > Bang
+Bang > Set
+Set > Gio
+
+# Damage He
+
+- Khac he: +20%
+- Bi khac: -10%
+- Trung lap: +0%

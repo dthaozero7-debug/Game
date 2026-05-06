@@ -1,0 +1,38 @@
+# Tong Quan Game
+
+## The Loai
+- Card Battle
+- PvP Online
+- Auto Battle
+- Fantasy Pixel
+
+## Loi Choi
+- 1vs1 theo doi hinh
+- Moi ben co nhieu tuong
+- Khi mot tuong chet thi tuong tiep theo vao san
+
+## Combat
+- Khong co HP
+- Ben tan cong dung ATK
+- Ben phong thu dung DEF
+- Hai chi so triet tieu nhau
+
+## Skill
+- Moi tuong co:
+  - 2 skill random
+  - 1 noi tai
+
+## He
+- Lua
+- Dat
+- Nuoc
+- Gio
+- Bang
+- Set
+
+## Speed
+- Speed cao hon se hanh dong truoc
+
+## Muc Tieu
+- Build doi hinh chien thuat
+- Ket hop skill va he khac che

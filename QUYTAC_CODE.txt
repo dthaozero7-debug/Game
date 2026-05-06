@@ -1,0 +1,36 @@
+# Quy Tac Code
+- Dung cho unity va ngon ngu la c#
+- Khong doi ten class tuy y
+- Khong viet logic trung lap
+- Moi thay doi phai tuong thich he thong
+- UI khong xu ly gameplay
+- Combat chi xu ly trong HeThongChienDau
+
+# Quy Tac Dat Ten
+
+- Su dung tieng Viet khong dau
+- Class dung PascalCase
+- Method dung PascalCase
+- Variable dung camelCase
+- Khong tron tieng Anh va tieng Viet trong cung he thong
+- Ten phai ro nghia va de hieu
+
+# Vi Du Dat Ten
+
+Class:
+- Tuong
+- KyNang
+- HeThongChienDau
+- QuanLyDoiHinh
+- TrangBi
+
+Method:
+- TinhSatThuong()
+- DungKyNang()
+- XuLyChiMang()
+
+Variable:
+- tiLeChiMang
+- satThuongChiMang
+- tangHieuQuaSkill
+- tiLeKichHoatSkill

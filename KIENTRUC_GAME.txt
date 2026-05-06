@@ -1,0 +1,27 @@
+# Kien Truc Game
+
+## Tuong
+- Chua thong so
+- Chua skill
+- Khong xu ly combat
+
+## KyNang
+- Xu ly hieu ung skill
+
+## HeThongChienDau
+- Xu ly combat
+- Xu ly speed
+- Xu ly crit
+- Xu ly he khac che
+
+## DoiHinh
+- Quan ly lineup
+- Quan ly thu tu ra san
+
+## GiaLap
+- Gia lap nhieu tran dau
+- Test balance
+
+## UI
+- Chi hien thi thong tin
+- Khong xu ly gameplay

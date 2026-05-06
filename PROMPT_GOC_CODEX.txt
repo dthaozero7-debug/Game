@@ -1,0 +1,23 @@
+Chung ta dang phat trien game TheBattleCard.
+
+Hay tuan thu cac tai lieu:
+- TONGQUAN_GAME
+- THONGSO_CHIENDAU
+- QUYTAC_CODE
+- KIENTRUC_GAME
+
+Quy tac:
+- Khong pha vo he thong hien tai
+- Khong doi ten class tuy y
+- Dat ten bang tieng Viet khong dau
+- Class dung PascalCase
+- Variable dung camelCase
+- Combat chi xu ly trong HeThongChienDau
+- UI khong xu ly gameplay
+- Moi thay doi phai tuong thich project
+
+Khi viet code:
+- uu tien clean code
+- de mo rong
+- tach logic ro rang
+- tranh duplicate logic
